@@ -1,5 +1,5 @@
 # Minecraft Legacy Launcher
-Simple .bat launcher for Minecraft Legacy
+Simple .bat launcher for [Minecraft Legacy](https://github.com/smartcmd/MinecraftConsoles)
 
 Automatically enters Name, IP, and Port arguments based on input. Leave them blank for defaults.
 
