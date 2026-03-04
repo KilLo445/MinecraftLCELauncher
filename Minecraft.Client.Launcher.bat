@@ -39,7 +39,7 @@ echo   Enter a Username, IP, and Port
 echo.
 echo   Leave blank to use defaults.
 echo.
-echo   Update at killo.club/MCLCELauncher
+echo   github.com/KilLo445/MinecraftLCELauncher
 echo.
 
 set "name="
